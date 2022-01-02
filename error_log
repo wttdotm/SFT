@@ -1,0 +1,10 @@
+[01-Jan-2022 19:03:50 UTC] PHP Notice:  Undefined variable: dir in /home/oxjyjwvfq4p8/public_html/SFT/replaceSFT.php on line 3
+[01-Jan-2022 19:03:57 UTC] PHP Notice:  Undefined variable: dir in /home/oxjyjwvfq4p8/public_html/SFT/replaceSFT.php on line 3
+[01-Jan-2022 19:05:00 UTC] PHP Notice:  Undefined variable: dir in /home/oxjyjwvfq4p8/public_html/SFT/replaceSFT.php on line 3
+[01-Jan-2022 19:21:41 UTC] PHP Warning:  copy(approved/messagesimage.png): failed to open stream: No such file or directory in /home/oxjyjwvfq4p8/public_html/SFT/replaceSFT.php on line 5
+[01-Jan-2022 19:22:06 UTC] PHP Warning:  copy(approved/messages.png): failed to open stream: No such file or directory in /home/oxjyjwvfq4p8/public_html/SFT/replaceSFT.php on line 5
+[01-Jan-2022 19:33:54 UTC] PHP Warning:  copy(1): failed to open stream: No such file or directory in /home/oxjyjwvfq4p8/public_html/SFT/replaceSFT.php on line 6
+[01-Jan-2022 19:34:03 UTC] PHP Warning:  copy(1): failed to open stream: No such file or directory in /home/oxjyjwvfq4p8/public_html/SFT/replaceSFT.php on line 6
+[01-Jan-2022 19:35:34 UTC] PHP Warning:  copy(2): failed to open stream: No such file or directory in /home/oxjyjwvfq4p8/public_html/SFT/replaceSFT.php on line 6
+[01-Jan-2022 19:38:29 UTC] PHP Parse error:  syntax error, unexpected '$newfile' (T_VARIABLE), expecting ',' or ';' in /home/oxjyjwvfq4p8/public_html/SFT/replaceSFT.php on line 6
+[01-Jan-2022 19:47:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/oxjyjwvfq4p8/public_html/SFT/upload.php on line 59
