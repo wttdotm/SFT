@@ -1,2 +1,4 @@
 # SFT project
-Current status: alpha
+
+## Current Status:
+alpha
